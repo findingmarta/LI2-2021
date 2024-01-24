@@ -1,0 +1,10 @@
+*
+!*.*
+!*/
+*.o
+*.out
+*.zip
+!.gitignore
+!Makefile
+.vscode/
+vgcore.*
